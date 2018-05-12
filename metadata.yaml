@@ -1,0 +1,32 @@
+_repo: The-Texan-StarThe-Story-of-a-Great-Fight-for-Liberty_15852
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Altsheler, Joseph A. (Joseph Alexander)
+    aliases:
+    - Altsheler, Joseph Alexander
+    - Altsheler, J. A. (Joseph Alexander)
+    birthdate: 1862
+    deathdate: 1919
+    gutenberg_agent_id: '2561'
+    url: http://www.gutenberg.org/2009/agents/2561
+    wikipedia: http://en.wikipedia.org/wiki/Joseph_Alexander_Altsheler
+description: ''
+gutenberg_bookshelf: Children's Fiction
+gutenberg_issued: '2005-05-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15852'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Texas -- Fiction'
+- !lcc 'PS'
+title: 'The Texan Star: The Story of a Great Fight for Liberty'
+url: http://www.gutenberg.org/ebooks/15852
